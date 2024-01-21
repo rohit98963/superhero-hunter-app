@@ -1,2 +1,2 @@
 # superhero-hunter-app
-Created a superhero hunter app by using vanilla javascript
+Created a suuuperhero hunter app by using vanilla javascript
